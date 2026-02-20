@@ -32,14 +32,14 @@ I define problems through domain understanding and solve them with technology.
 
 ## Experience
 
-### CUBIG — 2025.01 ~ Present
+### CUBIG — 2026.01 ~ Present
 AI Synthetic Data Platform (DTS) Backend
 
 - **Billing Microservice**: DDD architecture with Credit/Subscription/Payment BCs, Stripe integration, gRPC
 - **AWS Marketplace**: Source code protection with Cython + PyArmor
 - **Platform Infra**: Terraform IaC, ECS deployment, OPA authorization, CI/CD
 
-### JustQ — 2020.07 ~ 2025.01
+### JustQ — 2020.07 ~ 2025.12
 Multi-channel Product Management B2B Platform
 
 - **Async Messaging**: 300K msgs/hour, 6M+ msgs/day — led ActiveMQ → RabbitMQ migration
